@@ -1,0 +1,39 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.pyc
+.pytest_cache/
+.env.*
+!.env.example
+*.bak
+*.backup
+*_backup*
+*_before_*
+_phase6_quarantine/
+tmp_*/
