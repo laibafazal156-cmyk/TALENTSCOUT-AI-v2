@@ -59,12 +59,6 @@ An AI-powered platform that helps candidates analyze their CVs, verify certifica
    ```
 2. Copy `.env.example` to `.env` and add your own API keys.
 
-## Team
-
-- Apna Naam
-- Teammate 2 ka naam
-- Teammate 3 ka naam
-
 ## Previous Version
 
 Version 1: https://github.com/laibafazal156-cmyk/TalentScout_AI
